@@ -4,7 +4,7 @@ I'm a final year student at the Unversity of Toronto studying Engineering Scienc
 
 
 ### 📫 How to reach me: 
-[LinkedIn](https://www.linkedin.com/in/yawarashraf/ "LinkedIn") | [Devpost](https://devpost.com/ashrafya "Devpost") | [Email](mailto:yawar.ashraf@mail.utoronto.ca "Email") | [Resume](https://ashrafya.github.io/YawarAshraf.pdf "Resume") 
+[LinkedIn](https://www.linkedin.com/in/yawarashraf/ "LinkedIn") | [Website](https://ashrafya.github.io/ "Website") | [Email](mailto:yawar.ashraf@mail.utoronto.ca "Email") | [Resume](https://ashrafya.github.io/YawarAshraf.pdf "Resume") 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashrafya&show_icons=true&locale=en" alt="ashrafya" /></p>
 
