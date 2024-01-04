@@ -8,11 +8,6 @@ I'm a final year student at the Unversity of Toronto studying Engineering Scienc
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashrafya&show_icons=true&locale=en" alt="ashrafya" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafya&layout=compact" alt="ashrafya" /></p>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafya&layout=compact)
-
-
 ![](https://komarev.com/ghpvc/?username=ashrafya)
 
 
